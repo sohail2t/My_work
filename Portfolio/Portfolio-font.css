@@ -1,0 +1,16 @@
+*{margin: 0;
+    padding: 0;}
+@font-face {
+    font-family: logoTitle;
+    src: url(./font/Simply\ Rounded\ Bold.ttf);
+    }
+
+@font-face {
+    font-family: nurombolt;
+    src: url(./font/Nurom-Bold.ttf);
+    }
+@font-face {
+    font-family: pragrap;
+    src: url(./font/BebasNeue-Regular.eot);
+}
+
